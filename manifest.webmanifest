@@ -1,13 +1,12 @@
 {
-  "name": "Beamfold: Light Puzzle",
+  "name": "Beamfold: Daily Light Puzzle",
   "short_name": "Beamfold",
-  "description": "Bend beams of light with mirrors, blend colours and wake every crystal.",
+  "description": "One new light-bending puzzle every day. Turn the mirrors, mix the colours and light every crystal.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#0a0c1b",
-  "theme_color": "#0a0c1b",
+  "background_color": "#f6f6f7",
+  "theme_color": "#f6f6f7",
   "categories": ["games", "puzzle"],
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
